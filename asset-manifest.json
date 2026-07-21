@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Rick-And-Morty-app/static/css/main.4f0b4234.css",
-    "main.js": "/Rick-And-Morty-app/static/js/main.6ae65908.js",
+    "main.js": "/Rick-And-Morty-app/static/js/main.ab0cc44e.js",
     "static/css/573.5b2655fd.chunk.css": "/Rick-And-Morty-app/static/css/573.5b2655fd.chunk.css",
-    "static/js/573.0cc76c72.chunk.js": "/Rick-And-Morty-app/static/js/573.0cc76c72.chunk.js",
-    "static/js/962.247ba6ba.chunk.js": "/Rick-And-Morty-app/static/js/962.247ba6ba.chunk.js",
+    "static/js/573.fc51cdd1.chunk.js": "/Rick-And-Morty-app/static/js/573.fc51cdd1.chunk.js",
+    "static/js/962.d46b7d96.chunk.js": "/Rick-And-Morty-app/static/js/962.d46b7d96.chunk.js",
     "static/css/376.5445b689.chunk.css": "/Rick-And-Morty-app/static/css/376.5445b689.chunk.css",
-    "static/js/376.1529f856.chunk.js": "/Rick-And-Morty-app/static/js/376.1529f856.chunk.js",
+    "static/js/376.ffac9eff.chunk.js": "/Rick-And-Morty-app/static/js/376.ffac9eff.chunk.js",
     "static/css/412.ee674037.chunk.css": "/Rick-And-Morty-app/static/css/412.ee674037.chunk.css",
-    "static/js/412.4e797695.chunk.js": "/Rick-And-Morty-app/static/js/412.4e797695.chunk.js",
+    "static/js/412.917f7db6.chunk.js": "/Rick-And-Morty-app/static/js/412.917f7db6.chunk.js",
     "static/css/914.bd7fd472.chunk.css": "/Rick-And-Morty-app/static/css/914.bd7fd472.chunk.css",
-    "static/js/914.35d73cac.chunk.js": "/Rick-And-Morty-app/static/js/914.35d73cac.chunk.js",
-    "static/js/591.51d458e7.chunk.js": "/Rick-And-Morty-app/static/js/591.51d458e7.chunk.js",
-    "static/js/150.3e23ecb4.chunk.js": "/Rick-And-Morty-app/static/js/150.3e23ecb4.chunk.js",
+    "static/js/914.f6cc68bb.chunk.js": "/Rick-And-Morty-app/static/js/914.f6cc68bb.chunk.js",
+    "static/js/591.29134cb8.chunk.js": "/Rick-And-Morty-app/static/js/591.29134cb8.chunk.js",
+    "static/js/150.fad284c0.chunk.js": "/Rick-And-Morty-app/static/js/150.fad284c0.chunk.js",
     "static/media/banner.png": "/Rick-And-Morty-app/static/media/banner.28661e7a2a2e30cef008.png",
     "static/media/morty.png": "/Rick-And-Morty-app/static/media/morty.7764cbc898bc2ea3929c.png",
     "static/media/bg.png": "/Rick-And-Morty-app/static/media/bg.050bff843cb3599c020b.png",
@@ -23,21 +23,21 @@
     "static/media/decor.png": "/Rick-And-Morty-app/static/media/decor.9a975f72f03c2803e816.png",
     "index.html": "/Rick-And-Morty-app/index.html",
     "main.4f0b4234.css.map": "/Rick-And-Morty-app/static/css/main.4f0b4234.css.map",
-    "main.6ae65908.js.map": "/Rick-And-Morty-app/static/js/main.6ae65908.js.map",
+    "main.ab0cc44e.js.map": "/Rick-And-Morty-app/static/js/main.ab0cc44e.js.map",
     "573.5b2655fd.chunk.css.map": "/Rick-And-Morty-app/static/css/573.5b2655fd.chunk.css.map",
-    "573.0cc76c72.chunk.js.map": "/Rick-And-Morty-app/static/js/573.0cc76c72.chunk.js.map",
-    "962.247ba6ba.chunk.js.map": "/Rick-And-Morty-app/static/js/962.247ba6ba.chunk.js.map",
+    "573.fc51cdd1.chunk.js.map": "/Rick-And-Morty-app/static/js/573.fc51cdd1.chunk.js.map",
+    "962.d46b7d96.chunk.js.map": "/Rick-And-Morty-app/static/js/962.d46b7d96.chunk.js.map",
     "376.5445b689.chunk.css.map": "/Rick-And-Morty-app/static/css/376.5445b689.chunk.css.map",
-    "376.1529f856.chunk.js.map": "/Rick-And-Morty-app/static/js/376.1529f856.chunk.js.map",
+    "376.ffac9eff.chunk.js.map": "/Rick-And-Morty-app/static/js/376.ffac9eff.chunk.js.map",
     "412.ee674037.chunk.css.map": "/Rick-And-Morty-app/static/css/412.ee674037.chunk.css.map",
-    "412.4e797695.chunk.js.map": "/Rick-And-Morty-app/static/js/412.4e797695.chunk.js.map",
+    "412.917f7db6.chunk.js.map": "/Rick-And-Morty-app/static/js/412.917f7db6.chunk.js.map",
     "914.bd7fd472.chunk.css.map": "/Rick-And-Morty-app/static/css/914.bd7fd472.chunk.css.map",
-    "914.35d73cac.chunk.js.map": "/Rick-And-Morty-app/static/js/914.35d73cac.chunk.js.map",
-    "591.51d458e7.chunk.js.map": "/Rick-And-Morty-app/static/js/591.51d458e7.chunk.js.map",
-    "150.3e23ecb4.chunk.js.map": "/Rick-And-Morty-app/static/js/150.3e23ecb4.chunk.js.map"
+    "914.f6cc68bb.chunk.js.map": "/Rick-And-Morty-app/static/js/914.f6cc68bb.chunk.js.map",
+    "591.29134cb8.chunk.js.map": "/Rick-And-Morty-app/static/js/591.29134cb8.chunk.js.map",
+    "150.fad284c0.chunk.js.map": "/Rick-And-Morty-app/static/js/150.fad284c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f0b4234.css",
-    "static/js/main.6ae65908.js"
+    "static/js/main.ab0cc44e.js"
   ]
 }
