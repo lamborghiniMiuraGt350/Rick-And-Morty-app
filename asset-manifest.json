@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/css/main.4f0b4234.css",
+    "main.js": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/main.031b0592.js",
+    "static/css/573.5b2655fd.chunk.css": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/css/573.5b2655fd.chunk.css",
+    "static/js/573.0cc76c72.chunk.js": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/573.0cc76c72.chunk.js",
+    "static/js/962.247ba6ba.chunk.js": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/962.247ba6ba.chunk.js",
+    "static/css/376.5445b689.chunk.css": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/css/376.5445b689.chunk.css",
+    "static/js/376.1529f856.chunk.js": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/376.1529f856.chunk.js",
+    "static/css/412.ee674037.chunk.css": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/css/412.ee674037.chunk.css",
+    "static/js/412.4e797695.chunk.js": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/412.4e797695.chunk.js",
+    "static/css/914.bd7fd472.chunk.css": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/css/914.bd7fd472.chunk.css",
+    "static/js/914.35d73cac.chunk.js": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/914.35d73cac.chunk.js",
+    "static/js/591.51d458e7.chunk.js": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/591.51d458e7.chunk.js",
+    "static/js/150.3e23ecb4.chunk.js": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/150.3e23ecb4.chunk.js",
+    "static/media/banner.png": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/media/banner.28661e7a2a2e30cef008.png",
+    "static/media/morty.png": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/media/morty.7764cbc898bc2ea3929c.png",
+    "static/media/bg.png": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/media/bg.050bff843cb3599c020b.png",
+    "static/media/episode.jpg": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/media/episode.6bbd6d21307037a9abd7.jpg",
+    "static/media/episodes.webp": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/media/episodes.7d5afb090ed61c4cd33a.webp",
+    "static/media/logo.webp": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/media/logo.f778876e56feed85064e.webp",
+    "static/media/error.gif": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/decor.png": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/media/decor.9a975f72f03c2803e816.png",
+    "index.html": "/lamborghiniMiuraGt350/Rick-And-Morty-app/index.html",
+    "main.4f0b4234.css.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/css/main.4f0b4234.css.map",
+    "main.031b0592.js.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/main.031b0592.js.map",
+    "573.5b2655fd.chunk.css.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/css/573.5b2655fd.chunk.css.map",
+    "573.0cc76c72.chunk.js.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/573.0cc76c72.chunk.js.map",
+    "962.247ba6ba.chunk.js.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/962.247ba6ba.chunk.js.map",
+    "376.5445b689.chunk.css.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/css/376.5445b689.chunk.css.map",
+    "376.1529f856.chunk.js.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/376.1529f856.chunk.js.map",
+    "412.ee674037.chunk.css.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/css/412.ee674037.chunk.css.map",
+    "412.4e797695.chunk.js.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/412.4e797695.chunk.js.map",
+    "914.bd7fd472.chunk.css.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/css/914.bd7fd472.chunk.css.map",
+    "914.35d73cac.chunk.js.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/914.35d73cac.chunk.js.map",
+    "591.51d458e7.chunk.js.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/591.51d458e7.chunk.js.map",
+    "150.3e23ecb4.chunk.js.map": "/lamborghiniMiuraGt350/Rick-And-Morty-app/static/js/150.3e23ecb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f0b4234.css",
+    "static/js/main.031b0592.js"
+  ]
+}
