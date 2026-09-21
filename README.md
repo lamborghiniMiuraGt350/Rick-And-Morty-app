@@ -2,7 +2,7 @@
 
 Пет-проєкт браузера персонажів всесвіту «Рік і Морті», побудований на React з використанням React Router та валідацією форм через Formik/Yup. Дані підтягуються з публічного [Rick and Morty API](https://rickandmortyapi.com/).
 
-**🔗 Демо:** [посилання на GitHub Pages]
+**🔗 Демо:** https://lamborghinimiuragt350.github.io/Rick-And-Morty-app/
 **📦 Репозиторій:** github.com/lamborghiniMiuraGt350/Rick-And-Morty-app
 
 ## Функціонал
@@ -19,8 +19,8 @@
 | UI-бібліотека | React |
 | Роутинг | React Router |
 | Форми та валідація | Formik, Yup |
-| Робота з API | *(вкажи: fetch / axios / RTK Query)* |
-| Стилізація | *(вкажи використаний підхід)* |
+| Стилізація | SCSS |
+| Збірка | CRA |
 | Деплой | GitHub Pages |
 
 ## Що я відпрацював у цьому проєкті
@@ -38,7 +38,3 @@ cd Rick-And-Morty-app
 npm install
 npm run dev
 ```
-
-## Скріншоти
-
-*(додай скріншот списку персонажів і детальної сторінки — візуал сильно підвищує довіру до проєкту)*
