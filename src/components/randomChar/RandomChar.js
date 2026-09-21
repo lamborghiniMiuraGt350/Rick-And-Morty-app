@@ -58,7 +58,9 @@ const RandomChar = () => {
         clearError();
         const id = Math.floor((Math.random() * 826) + 1);
         //onCharLoading();
-        getCharacter(id).then(onCharLoaded).then(() => setProcess('confirmed'))
+        getCharacter(id)
+        .then(onCharLoaded)
+        .then(() => setProcess('confirmed'))
     }
 
     // const errorMessage = error ? <ErrorMessage /> : null;

@@ -96,12 +96,9 @@ const View = ({ data, episode: characters }) => {
                     </ul>
                 </div>
                 <Link to="/episodes" className="single-comic__back">Back to all</Link>
-            </div></>
+            </div>
+        </>
     )
 }
 
 export default SingleComicPage;
-
-
-
-

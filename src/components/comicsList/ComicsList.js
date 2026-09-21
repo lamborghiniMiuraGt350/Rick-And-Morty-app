@@ -1,10 +1,12 @@
 import { useEffect, useState } from 'react';
+import { Link } from 'react-router-dom';
+
 import useMarvelService from '../../services/MarvelService';
 import ErrorMessage from '../error/error';
 import Spinner from '../spinner/spinner';
-import './comicsList.scss'
-import { Link } from 'react-router-dom';
+
 import episodesImg from '../../resources/img/episodes.webp'
+import './comicsList.scss'
 const setContent = (process, Component, newItemLoading) => {
     switch (process) {
         case 'waiting':
@@ -84,7 +86,7 @@ const ComicsList = () => {
             </ul>
         )
     }
-    const items = renderItems(comicsList);
+    // const items = renderItems(comicsList);
 
     // const errorMessage = error ? <ErrorMessage /> : null;
     // const spinner = loading && !newItemLoading ? <Spinner /> : null;

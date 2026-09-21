@@ -13,7 +13,7 @@ const AppHeader = () => {
                 <ul>
                     <li><NavLink end style={({ isActive }) => ({ color: isActive ? '#9f0013' : '' })} to='/'>Characters</NavLink></li>
                     /
-                    <li><NavLink end style={({ isActive }) => ({ color: isActive ? '#9f0013' : '' })} to='episodes'>Episodes</NavLink></li>
+                    <li><NavLink style={({ isActive }) => ({ color: isActive ? '#9f0013' : '' })} to='episodes'>Episodes</NavLink></li>
                 </ul>
             </nav>
         </header>

@@ -12,7 +12,8 @@ const EpisodesPage = lazy(() => import("../pages/EpisodesPage"));
 const App = () => {
 
     return (
-        <Router>
+        // <Router basename="/Rick-And-Morty-app/">
+        <Router >
             <div className="app" >
                 <AppHeader />
                 <main>

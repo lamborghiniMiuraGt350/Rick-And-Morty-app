@@ -1,10 +1,9 @@
 import { useState } from 'react';
-
-import { Formik, Form, Field, ErrorMessage as FormikErrorMessage, ErrorMessage } from 'formik';
+import { Formik, Form, Field, ErrorMessage as FormikErrorMessage } from 'formik';
 import * as Yup from 'yup';
 import { Link } from 'react-router-dom';
 
-
+import ErrorMessage from '../error/error';
 import useMarvelService from '../../services/MarvelService';
 import './charSearchForm.scss';
 
@@ -13,26 +12,32 @@ export const CharSearchForm = () => {
     const { loading, error, clearError, getCharacterByName } = useMarvelService();
 
     const onCharLoaded = (char) => {
+
         setChar(char);
 
     }
-    const updateChar = (name) => {
-        clearError();
+    const updateChar = async (name) => {
 
-        getCharacterByName(name)
-            .then(onCharLoaded);
+
+        clearError();
+        const data = await getCharacterByName(name)
+        const filtered = data.filter(item => item.name === name);
+        setChar(filtered);
+
     }
+    
     const errorMessage = error ? <ErrorMessage /> : null;
-    const result = char ?  <div className="char__search-wrapper">
-                        <div className="char__search-success">There is! Visit {char.name} page?</div>
-                        <Link to={`/characters/${char.id}`} className="button button__secondary">
-                            <div className="inner">To page</div>
-                        </Link>
-                    </div> : (
+    const result = !char ? null : char.length > 0 ? (<div className="char__search-wrapper">
+        <div className="char__search-success">There is! Visit {char[0].name} page?</div>
+        <Link to={`/characters/${char[0].id}`} className="button button__secondary">
+            <div className="inner">To page</div>
+        </Link>
+    </div>) : (
         <div className="char__search-error">
             The character was not found. Check the name and try again
         </div>
     )
+
     return (
         <div className='char__search-form'>
             <Formik

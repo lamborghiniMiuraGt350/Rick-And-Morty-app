@@ -34,7 +34,7 @@ const CharList = ({ onCharSelected }) => {
     // const [loading, setLoading] = useState(true);
     // const [error, setError] = useState(false);
     const [newItemLoading, setNewItemLoading] = useState(false);
-    const [offset, setOffset] = useState(40);
+    const [offset, setOffset] = useState(1);
     const [charEnded, setCharEnded] = useState(false);
 
     const { error, loading, getAllCharacters, process, setProcess } = useMarvelService();
